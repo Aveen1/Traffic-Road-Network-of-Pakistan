@@ -16,8 +16,8 @@ We keep it in new3, new4, new5.txt files and later convert them to .csv format
 
 Make sure you have installed all the libraries including igraph and ggplot to run this project
 
-![GitHub Logo](/)
+![GitHub Logo](/Motorways.png)
 
-![GitHub Logo](/)
+![GitHub Logo](/Rplot2.png)
 
-![GitHub Logo](/)
+![GitHub Logo](/Rplot3.png)
