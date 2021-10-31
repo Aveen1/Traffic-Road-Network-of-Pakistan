@@ -1,0 +1,14 @@
+            Route from,            Route to,Name,                        Length (KM),        Status
+                Peshawar,                Islamabad,M-1,155,        Operational
+                Lahore,                Islamabad1,M-2,367,        Operational
+                Lahore1,                Abdul Hakeem,M-3,230,        Operational
+                Pindi Bhattian,                Multan,M-4,309,        Operational
+                Multan,               Sukkur,M-5,392,        Operational
+                Sukkur ,                Hyderabad,M-6,296,        Planned
+                Dadu,                Hub,M-7,270,        Planned
+                Ratodero,                Gwadar ,M-8,892,        Partially Operational
+                Hyderabad,                Karachi,M-9,136,        Operational
+            Karachi,            Northern Bypass,M-10,57,        Operational
+            Kharian,            Lahore,M-11,150,        Under Construction
+            Hakla,           D.I. Khan,M-14,280,        Under Construction
+    Hasan Abdal,          Thakot,Hazara Motorway,180,        Partially Operational
