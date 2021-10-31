@@ -1,0 +1,20 @@
+S.No.         Project                                       Length(KM)     Province
+1.            Makran Costal Highway                          634           Balochistan
+2.            Nauttal-Sibi section including Sibi Bypass      86           Balochistan
+3.            Dera Allah Yar-Nauttal Section                  60           Balochistan
+4.            Khajuri-Bewata Section N-70                     68           Balochistan
+5.            Kohat Tunnel and Access Roads                   31           NWFP
+6.            Mansehra-Naran Section                         124           NWFP
+7.            D.I.Khan-CRBC (Indus Highway)                   14           NWFP
+8.            Karachi Northern Bypass                         57           Sindh
+9.            Qazi Ahmed & Shahpur Jehania Road              102           Sindh 
+10.           Ratodero-Shahdadkot-Qubo Saeed Khan             64           Sindh
+11.           Pindi Bhattian-Faisalabad Motorway, M-3         52           Punjab
+12.           Lahore-Sahiwal Section                          40           Punjab
+13.           Okara Bypass                                    13           Punjab
+14.           Rahim Yar Khan-TMP Section                      80           Punjab
+15.           Baberlo-Pano Aqil Section                       30           Sindh
+16.           Rehabilitation of Bund Road Lahore              19           Punjab
+17.           Torkham-Jalalabad Road.                         75           Afghanistan
+
+

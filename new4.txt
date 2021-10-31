@@ -1,0 +1,14 @@
+Name	            Route 	                        Length (KM)	        Status
+M-1	                Peshawar-Islamabad	                  155	        Operational
+M-2	                Lahore-Islamabad	                  367	        Operational
+M-3	                Lahore-Abdul Hakeem	                  230	        Operational
+M-4	                Pindi Bhattian-Multan	              309	        Operational
+M-5	                Multan-Sukkur	                      392	        Operational
+M-6	                Sukkur Hyderabad	                  296	        Planned
+M-7	                Dadu-Hub	                          270	        Planned
+M-8	                Ratodero-Gwadar 	                  892	        Partially Operational
+M-9	                Hyderabad-Karachi	                  136	        Operational
+M-10	            Karachi Northern Bypass	               57	        Operational
+M-11	            Kharian-Lahore	                      150	        Under Construction
+M-14	            Hakla-D.I. Khan	                      280	        Under Construction
+Hazara Motorway	    Hasan Abdal-Thakot	                  180	        Partially Operational
